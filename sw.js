@@ -1,6 +1,6 @@
 const SW_VERSION = '1.0.0';
-const URL_SUSTI = 'http://127.0.0.1:5500/PWA/img/gato2.jpeg'; 
-const URL_PLACEHOLDER = 'http://127.0.0.1:5500/PWA/img/gato3.jpeg';
+const URL_SUSTI = 'http://127.0.0.1:5500/img/gato2.jpeg'; 
+const URL_PLACEHOLDER = 'http://127.0.0.1:5500/img/gato3.jpeg';
 
 self.addEventListener('fetch', function(event) {
   const url = event.request.url;
