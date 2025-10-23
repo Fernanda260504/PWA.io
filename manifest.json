@@ -1,5 +1,5 @@
 {
-    "name": "Mi PWA de imagenes",
+    "name": "Mi PWA de imagen",
     "short_name": "Gestor PWA",
     "start_url": "/PWA.io/",
     "display": "standalone",
